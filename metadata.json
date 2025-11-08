@@ -1,0 +1,5 @@
+{
+  "name": "AI Agent Colab Starter",
+  "description": "An application to help you quickly generate a Google Colab setup script for a curated list of AI agent development tools. Select your desired tools, and the app will generate the necessary installation commands. You can also use Gemini to generate a starter code template for your selected tools.",
+  "requestFramePermissions": []
+}
